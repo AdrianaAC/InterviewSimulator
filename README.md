@@ -13,7 +13,7 @@
 
 Introduction
 ------------
-Interview Simulator is a text based program that aims to help codeCadets practice and get ready for their coding interview.
+Interview Simulator is a text-based program that aims to help code cadets practice and get ready for their coding interview.
 
 
 Program Features
